@@ -1,0 +1,17 @@
+Kegunaan Git :
+- Untuk distribusi source code.
+- Versioning Control -> Memanage perubahan-perubahan yang terjadi di dalam source code, baik kembali versi yang lama atau yang lebih baru.
+- Tracking perubahan
+- Ngetrack perubahan file bukan folder, otomatis kalau folder kosong tidak bisa
+.gitkeep - untuk melakukan push folder kosong
+
+Langkah 
+- Masuk ke folder lalu terminal
+- git init
+- git status
+- git add .
+- git log/git log --oneline
+- git commit -m 'Initial commit'
+
+
+coba asal git status tanpa git init
